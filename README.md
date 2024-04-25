@@ -1,3 +1,4 @@
+![Modern Cute Green Aesthetic Twitch Banner](https://github.com/favireyes/CSST-104-REYES-FAVIELLE-ANNE-CS3A/assets/168096844/1aae98de-1983-4a94-8bc7-e82b4bd9040a)
 # INTRODUCTION
 This is a compilation of Exercises, Assessment Tasks, and Midterm Examination for the subject CSST 104 Advanced Machine Learning.
 
