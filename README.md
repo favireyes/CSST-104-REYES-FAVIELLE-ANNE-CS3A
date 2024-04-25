@@ -3,6 +3,7 @@ This is a compilation of Exercises, Assessment Tasks, and Midterm Examination fo
 
 Name: Reyes, Favielle Anne O. <br>
 Section: BSCS-IS-3A
+Instructor: Mark P. Bernardino MSCS
 
 # EXERCISES
 <ul>
