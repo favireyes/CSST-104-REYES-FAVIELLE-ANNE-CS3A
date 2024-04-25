@@ -2,7 +2,7 @@
 This is a compilation of Exercises, Assessment Tasks, and Midterm Examination for the subject CSST 104 Advanced Machine Learning.
 
 Name: Reyes, Favielle Anne O. <br>
-Section: BSCS-IS-3A
+Section: BSCS-IS-3A <br>
 Instructor: Mark P. Bernardino MSCS
 
 # EXERCISES
